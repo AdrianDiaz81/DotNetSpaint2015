@@ -1,0 +1,96 @@
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\Contacts.Android.dll
+D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ContactsLib.dll
+D:\DotNetConference\DotNet\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.3.0.110281957-alpha\lib\MonoAndroid10\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\DotNetConference\DotNet\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.3.0.110281957-alpha\lib\MonoAndroid10\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.Annotations.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.EventBasedAsync.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Contracts.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Debug.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Tools.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Tracing.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Dynamic.Runtime.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Globalization.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.IO.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.Expressions.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.Parallel.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.Queryable.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Net.NetworkInformation.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Net.Primitives.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Net.Requests.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ObjectModel.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Emit.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Emit.ILGeneration.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Emit.Lightweight.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Extensions.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Primitives.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Resources.ResourceManager.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Extensions.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.InteropServices.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Numerics.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Serialization.Json.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Serialization.Primitives.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Serialization.Xml.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Security.Principal.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ServiceModel.Http.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ServiceModel.Primitives.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ServiceModel.Security.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Text.Encoding.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Text.Encoding.Extensions.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Text.RegularExpressions.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.Tasks.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.Tasks.Parallel.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.Timer.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.ReaderWriter.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XDocument.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XmlSerializer.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\Microsoft.Office365.OutlookServices.Portable.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\Microsoft.OData.Client.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\Microsoft.OData.Edm.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\Microsoft.OData.Core.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\Microsoft.Spatial.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\Microsoft.Office365.Discovery.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\Newtonsoft.Json.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\de\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\es\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\fr\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\it\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ja\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ko\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ru\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\de\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\es\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\it\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\de\Microsoft.Spatial.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\es\Microsoft.Spatial.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\fr\Microsoft.Spatial.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\it\Microsoft.Spatial.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ja\Microsoft.Spatial.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ko\Microsoft.Spatial.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\ru\Microsoft.Spatial.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+D:\DotNetConference\DotNet\Contacts.Android\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll

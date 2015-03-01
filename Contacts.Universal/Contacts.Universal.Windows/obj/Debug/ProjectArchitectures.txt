@@ -1,0 +1,2 @@
+D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\Contacts.Universal.Windows.csproj;neutral
+D:\DotNetConference\DotNet\ContactsLib\ContactsLib.csproj;neutral

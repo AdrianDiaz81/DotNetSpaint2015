@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VENUM</Machine>
+    <WindowsUser>adiaz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>9a75cb85-45b0-412f-90af-2b88ddc29979</PackageIdentityName>
+    <IntermediateOutputPath>D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\bin\x86\Debug\Contacts.Universal.WindowsPhone.exe">
+      <PackagePath>Contacts.Universal.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ContactsLib.dll">
+      <PackagePath>ContactsLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.3.0.110281957-alpha\lib\wpa\Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <PackagePath>Microsoft.IdentityModel.Clients.ActiveDirectory.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.3.0.110281957-alpha\lib\wpa\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll">
+      <PackagePath>Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\Microsoft.Office365.OutlookServices.Portable.dll">
+      <PackagePath>Microsoft.Office365.OutlookServices.Portable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\Microsoft.Office365.Discovery.dll">
+      <PackagePath>Microsoft.Office365.Discovery.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\Microsoft.OData.Client.dll">
+      <PackagePath>Microsoft.OData.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\Microsoft.OData.Edm.dll">
+      <PackagePath>Microsoft.OData.Edm.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\Microsoft.OData.Core.dll">
+      <PackagePath>Microsoft.OData.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\Microsoft.Spatial.dll">
+      <PackagePath>Microsoft.Spatial.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\de\Microsoft.OData.Client.resources.dll">
+      <PackagePath>de\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\es\Microsoft.OData.Client.resources.dll">
+      <PackagePath>es\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\fr\Microsoft.OData.Client.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\it\Microsoft.OData.Client.resources.dll">
+      <PackagePath>it\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ja\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ko\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ru\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\zh-Hans\Microsoft.OData.Client.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\zh-Hant\Microsoft.OData.Client.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Client.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\de\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>de\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\es\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>es\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\fr\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\it\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>it\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ja\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ko\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ru\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Edm.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\de\Microsoft.OData.Core.resources.dll">
+      <PackagePath>de\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\es\Microsoft.OData.Core.resources.dll">
+      <PackagePath>es\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\fr\Microsoft.OData.Core.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\it\Microsoft.OData.Core.resources.dll">
+      <PackagePath>it\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ja\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ko\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ru\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\zh-Hans\Microsoft.OData.Core.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\zh-Hant\Microsoft.OData.Core.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Core.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\de\Microsoft.Spatial.resources.dll">
+      <PackagePath>de\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\es\Microsoft.Spatial.resources.dll">
+      <PackagePath>es\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\fr\Microsoft.Spatial.resources.dll">
+      <PackagePath>fr\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\it\Microsoft.Spatial.resources.dll">
+      <PackagePath>it\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ja\Microsoft.Spatial.resources.dll">
+      <PackagePath>ja\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ko\Microsoft.Spatial.resources.dll">
+      <PackagePath>ko\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\ru\Microsoft.Spatial.resources.dll">
+      <PackagePath>ru\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\zh-Hans\Microsoft.Spatial.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\x86\Debug\zh-Hant\Microsoft.Spatial.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Spatial.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\bin\x86\Debug\Contacts.Universal.WindowsPhone.xr.xml">
+      <PackagePath>Contacts.Universal.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.WindowsPhone\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

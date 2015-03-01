@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="d:\dotnetconference\dotnet\contactslib\bin\arm\debug\contactslib.dll" HashGuid="b00e8cb9-4a40-2d37-a8ea-1b185c360975" />
+    <ReferenceAssembly PathName="d:\dotnetconference\dotnet\packages\microsoft.identitymodel.clients.activedirectory.3.0.110281957-alpha\lib\netcore45\microsoft.identitymodel.clients.activedirectory.dll" HashGuid="a3545e5e-834c-4147-f695-120787e1fd80" />
+    <ReferenceAssembly PathName="d:\dotnetconference\dotnet\packages\microsoft.identitymodel.clients.activedirectory.3.0.110281957-alpha\lib\netcore45\microsoft.identitymodel.clients.activedirectory.platform.dll" HashGuid="fbbcc94f-f514-36e9-673b-2d5d05fa30ef" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VENUM</Machine>
+    <WindowsUser>adiaz</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2432493e-0620-4793-8f10-18a58432aa10</PackageIdentityName>
+    <IntermediateOutputPath>D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E0EE34D5D48B81177F05BF30DA266A8CAA522CD19400B8A55F34E9123FB73E69</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2432493e-0620-4793-8f10-18a58432aa10_1.0.0.0_neutral__wyqvd9a5y05zw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2432493e-0620-4793-8f10-18a58432aa10_wyqvd9a5y05zw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2432493e-0620-4793-8f10-18a58432aa10</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=adiaz</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-21T19:34:08.211</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\bin\Debug\Contacts.Universal.Windows.exe">
+      <PackagePath>Contacts.Universal.Windows.exe</PackagePath>
+      <Modified>2015-02-27T16:29:22.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ContactsLib.dll">
+      <PackagePath>ContactsLib.dll</PackagePath>
+      <Modified>2015-02-27T16:26:08.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.3.0.110281957-alpha\lib\netcore45\Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <PackagePath>Microsoft.IdentityModel.Clients.ActiveDirectory.dll</PackagePath>
+      <Modified>2015-02-20T20:10:37.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.3.0.110281957-alpha\lib\netcore45\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll">
+      <PackagePath>Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll</PackagePath>
+      <Modified>2015-02-20T20:10:37.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\Microsoft.Office365.OutlookServices.Portable.dll">
+      <PackagePath>Microsoft.Office365.OutlookServices.Portable.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\Microsoft.Office365.Discovery.dll">
+      <PackagePath>Microsoft.Office365.Discovery.dll</PackagePath>
+      <Modified>2015-02-20T20:24:34.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\Microsoft.OData.Client.dll">
+      <PackagePath>Microsoft.OData.Client.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\Microsoft.OData.Edm.dll">
+      <PackagePath>Microsoft.OData.Edm.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\Microsoft.OData.Core.dll">
+      <PackagePath>Microsoft.OData.Core.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-02-20T20:09:53.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\Microsoft.Spatial.dll">
+      <PackagePath>Microsoft.Spatial.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\de\Microsoft.OData.Client.resources.dll">
+      <PackagePath>de\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\es\Microsoft.OData.Client.resources.dll">
+      <PackagePath>es\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\fr\Microsoft.OData.Client.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\it\Microsoft.OData.Client.resources.dll">
+      <PackagePath>it\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ja\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ko\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ru\Microsoft.OData.Client.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\zh-Hans\Microsoft.OData.Client.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\zh-Hant\Microsoft.OData.Client.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Client.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\de\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>de\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\es\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>es\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\fr\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\it\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>it\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ja\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ko\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ru\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Edm.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\de\Microsoft.OData.Core.resources.dll">
+      <PackagePath>de\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\es\Microsoft.OData.Core.resources.dll">
+      <PackagePath>es\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\fr\Microsoft.OData.Core.resources.dll">
+      <PackagePath>fr\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\it\Microsoft.OData.Core.resources.dll">
+      <PackagePath>it\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ja\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ja\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ko\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ko\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ru\Microsoft.OData.Core.resources.dll">
+      <PackagePath>ru\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.OData.Core.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:21.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\de\Microsoft.Spatial.resources.dll">
+      <PackagePath>de\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\es\Microsoft.Spatial.resources.dll">
+      <PackagePath>es\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\fr\Microsoft.Spatial.resources.dll">
+      <PackagePath>fr\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\it\Microsoft.Spatial.resources.dll">
+      <PackagePath>it\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ja\Microsoft.Spatial.resources.dll">
+      <PackagePath>ja\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ko\Microsoft.Spatial.resources.dll">
+      <PackagePath>ko\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\ru\Microsoft.Spatial.resources.dll">
+      <PackagePath>ru\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\ContactsLib\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Spatial.resources.dll</PackagePath>
+      <Modified>2015-02-20T20:15:20.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-21T19:34:05.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-02-22T15:57:26.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\bin\Debug\Contacts.Universal.Windows.xr.xml">
+      <PackagePath>Contacts.Universal.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-23T19:52:58.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\DotNetConference\DotNet\Contacts.Universal\Contacts.Universal.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-27T16:29:23.690</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
