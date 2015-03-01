@@ -1,8 +1,8 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="d:\dotnetconference\dotnet\contacts.universal\contacts.universal.windows\obj\debug\intermediatexaml\contacts.universal.windows.exe" HashGuid="5ef1bbd1-f710-5174-0eee-36cdb93e8789" />
-    <ReferenceAssembly PathName="d:\github\dotnet\contactslib\bin\debug\contactslib.dll" HashGuid="b00e8cb9-4a40-2d37-a8ea-1b185c360975" />
-    <ReferenceAssembly PathName="d:\github\dotnet\packages\microsoft.identitymodel.clients.activedirectory.3.0.110281957-alpha\lib\netcore45\microsoft.identitymodel.clients.activedirectory.dll" HashGuid="a3545e5e-834c-4147-f695-120787e1fd80" />
-    <ReferenceAssembly PathName="d:\github\dotnet\packages\microsoft.identitymodel.clients.activedirectory.3.0.110281957-alpha\lib\netcore45\microsoft.identitymodel.clients.activedirectory.platform.dll" HashGuid="fbbcc94f-f514-36e9-673b-2d5d05fa30ef" />
+    <ReferenceAssembly PathName="c:\users\adiaz\documents\github\dotnetspaint2015\contactslib\bin\debug\contactslib.dll" HashGuid="b00e8cb9-4a40-2d37-a8ea-1b185c360975" />
+    <ReferenceAssembly PathName="c:\users\adiaz\documents\github\dotnetspaint2015\packages\microsoft.identitymodel.clients.activedirectory.3.0.110281957-alpha\lib\netcore45\microsoft.identitymodel.clients.activedirectory.dll" HashGuid="a3545e5e-834c-4147-f695-120787e1fd80" />
+    <ReferenceAssembly PathName="c:\users\adiaz\documents\github\dotnetspaint2015\packages\microsoft.identitymodel.clients.activedirectory.3.0.110281957-alpha\lib\netcore45\microsoft.identitymodel.clients.activedirectory.platform.dll" HashGuid="fbbcc94f-f514-36e9-673b-2d5d05fa30ef" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

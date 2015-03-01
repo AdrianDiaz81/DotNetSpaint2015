@@ -6,5 +6,6 @@
   <PropertyGroup>
     <ReferenceCachePath>C:\Users\adiaz\AppData\Local\Temp\Contacts.Cordova_refcache</ReferenceCachePath>
     <ToolsVersionPromptShown>1.4</ToolsVersionPromptShown>
+    <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
 </Project>
